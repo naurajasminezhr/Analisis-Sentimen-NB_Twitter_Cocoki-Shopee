@@ -1,0 +1,3 @@
+Link Coding di Google Colab :
+1. Text Preprocessing : https://colab.research.google.com/drive/1eve-ddBfiTlXgh_oYI2VZYmSEJpp2ChA?usp=sharing
+2. Klasifikasi Naive Bayes : https://colab.research.google.com/drive/1bQOXCGZcyBQ5Onp9RoLYvuOsXpb6ahGV?usp=sharing
